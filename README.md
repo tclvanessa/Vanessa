@@ -24,6 +24,8 @@ public class Vanessa {
   - C
   - HTML (WIP)
   - CSS (WIP)
+  - Go
  
 - Tools:
   - IntelliJ
+  - VSCode
