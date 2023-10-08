@@ -29,3 +29,4 @@ public class Vanessa {
 - Tools:
   - IntelliJ
   - VSCode
+  - Jupyter Notebook
