@@ -22,11 +22,15 @@ public class Vanessa {
   - Python
   - Java
   - C
-  - HTML (WIP)
-  - CSS (WIP)
+  - HTML
+  - CSS
   - Go
+  - React
+  - Tailwind
+  - Javascript
  
 - Tools:
   - IntelliJ
   - VSCode
   - Jupyter Notebook
+  - Google Apps Script
